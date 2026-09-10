@@ -1,0 +1,15 @@
+{
+  "name": "javastack_lesson1",
+  "version": "1.0.0",
+  "description": "My first WebStack : Simple AI-like chatbot",
+
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Student",
+  "license":"ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
